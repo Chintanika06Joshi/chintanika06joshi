@@ -1,16 +1,28 @@
 ## Hi there 👋
 
-<!--
-**Chintanika06Joshi/chintanika06joshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Chintanika
 
-Here are some ideas to get you started:
+🚀 Blockchain Developer | Smart Contract Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+
+* Solidity, Ethereum
+* React, Ethers.js
+* Hardhat, Remix
+* IPFS, Pinata
+
+## 💡 Projects
+
+* 🛒 DecentralMart – Web3 Marketplace (USDT payments)
+* 🏥 Health Insurance Smart Contract
+* 🏠 Real Estate Tokenization
+
+## 📈 Currently Learning
+
+* Advanced Solidity patterns
+* Security (reentrancy, gas optimization)
+
+## 📫 Contact
+
+* LinkedIn: [www.linkedin.com/in/chintanika-joshi-44bb64320]
+* Email: [chintanika.joshi@gmail.com]
